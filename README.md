@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science Tools**
 
-- 💬 Ask me about **ML, AI, Electronics and Data Sceince**
+- 💬 Ask me about **ML, AI, Electronics and Data science**
 
 - 📫 How to reach me **sudhanshut2017.st@gmail.com**
 
