@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu1st" alt="sudhanshu1st" /></a> </p>
 
-- 🌱 I’m currently learning **Flask, MySQL, Azure, LLMs**
+- 🌱 I’m currently learning **Flask, Azure, LLMs**
 
-- 💬 Ask me about **ML, AI, Python, Data Analysis, Electronics and Data science**
+- 💬 Ask me about **Career in ML, AI, Python, Data Analysis, and Data Science**
 
 - 📫 How to reach me **sudhanshut2017.st@gmail.com**
 
