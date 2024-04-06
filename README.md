@@ -1,6 +1,6 @@
 ![](https://github.com/Sudhanshu1st/Sudhanshu1st/blob/main/LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Sudhanshu Tiwari</h1>
-<h3 align="center">A final year student doing </h3>
+<h3 align="center">A Data Science Intern looking for full time data roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu1st&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1st" /> </p>
 
