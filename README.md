@@ -1,12 +1,12 @@
 ![](https://github.com/Sudhanshu1st/Sudhanshu1st/blob/main/LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Sudhanshu Tiwari</h1>
-<h3 align="center">An aspiring ML Engineer and Data scientist </h3>
+<h3 align="center">A final year student doing </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu1st&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1st" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu1st" alt="sudhanshu1st" /></a> </p>
 
-- 🌱 I’m currently learning **Flask, Azure, LLMs**
+- 🌱 I’m currently learning **Data engineering, LLMs and MLOps** 
 
 - 💬 Ask me about **Career in ML, AI, Python, Data Analysis, and Data Science**
 
