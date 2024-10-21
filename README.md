@@ -8,8 +8,8 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on_____!
-- Learning MLOps, LLMs and ....
+- 🔭 I’m currently working on 100 days, 100 Data Projects !
+- Learning MLOps, Data Engineering, LLMs 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning, Analytics & Data Science
   - 🔤 Natural Language Processing
