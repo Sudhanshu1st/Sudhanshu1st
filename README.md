@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sudhanshu Tiwari</h1>
-<h3 align="center">I explore AI and work with the Data. Just simple like that!</h3>
+<h3 align="center">I work with AI and the Data. Just simple like that!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu1st&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1st" /> </p>
 
