@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sudhanshu Tiwari</h1>
 <h3 align="center">I work with AI and the Data. Just simple like that!</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu1st" alt="sudhanshu1st" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu1st&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1st" /> </p>
 
 ## ⚡️ A Few Quick Facts
 
