@@ -1,4 +1,4 @@
-![](https://github.com/Sudhanshu1st/Sudhanshu1st/blob/main/LinkedIn%20Banner%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Sudhanshu Tiwari</h1>
 <h3 align="center">I explore AI and work with the Data. Just simple like that!</h3>
 
