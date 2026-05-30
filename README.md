@@ -5,16 +5,14 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on 100 days, 100 Data Projects !
-- Learning MLOps, Data Engineering, LLMs 
+- 🔭 I’m currently working on building something cool in AI space
+- Learning Voice AI Agents, Orchestration 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning, Analytics & Data Science
   - 🔤 Natural Language Processing
-  - 🖼 Computer Vision
-  - 🤖 Reinforcement Learning
   - Deploying ML Models and learning new research papers 
   - ♾️ Literally any tech 
-- 📝 I write technical blogs and articles and sometimes poems in Hindi and English
+- 📝 I write technical blogs and articles and host podcast on DataSEA (YouTube: https://www.youtube.com/@thisisdatasea)
 - 🎥 Cinemaphile and a bigtime anime fan (Nante iu ka? Tomodachi)
 - 👟 Love to travel, play sports and do yoga
 - 🏏 A big cricket fan
