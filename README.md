@@ -14,12 +14,6 @@
 - **HyDE RAG v2**: benchmarking naive RAG vs. HyDE vs. hybrid search (BM25 + vectors + reranker) on retrieval recall and answer faithfulness.
 - Learning: voice AI agents and multi-agent orchestration.
 
-### Featured project
-
-**[Secure HyDE RAG](https://github.com/Sudhanshu1st/HyDe_RAG)**: question answering over technical documentation (SOPs, RCA-CAPA reports, engineering manuals) using Hypothetical Document Embeddings. It runs on open-source models, so sensitive documents never go to a public chatbot, and the UI shows both the generated hypothesis and the retrieved source text.
-
-`LangChain` `FAISS` `sentence-transformers` `Hugging Face` `Streamlit`
-
 ### What I've built at work
 
 At **NuTaste Group** and **Internshala**:
@@ -46,18 +40,6 @@ I talk to data and AI practitioners about what actually works in production.
 **ML:** PyTorch · scikit-learn · XGBoost · LightGBM · BERT / NER · SHAP · A/B testing & causal inference<br>
 **Data:** Python · SQL · PySpark · Azure Data Factory · MS Fabric · BigQuery · PostgreSQL · DuckDB<br>
 **Apps:** Streamlit · Power BI
-
-<details>
-<summary><b>Earlier projects</b></summary>
-
-- [CallSense](https://github.com/Sudhanshu1st/CallSense): sentiment analysis for sales calls (NLTK, VADER, Streamlit)
-- [summarizer-webapp](https://github.com/Sudhanshu1st/summarizer-webapp): summarize any web page from its URL (LangChain, OpenAI, Streamlit)
-- [Customer-Churn-Analysis](https://github.com/Sudhanshu1st/Customer-Churn-Analysis): churn prediction and retention actions for a power company
-- [retail-order-data-engineering-project](https://github.com/Sudhanshu1st/retail-order-data-engineering-project): Pandas → MySQL → Power BI pipeline on retail orders
-- [Advanced-House-Prediction-EDA](https://github.com/Sudhanshu1st/Advanced-House-Prediction-EDA): EDA and feature engineering for a Kaggle competition
-- [gesture_gaming](https://github.com/Sudhanshu1st/gesture_gaming): play Hill Climb Racing with hand gestures (OpenCV)
-
-</details>
 
 ---
 
