@@ -8,24 +8,6 @@
 
 ---
 
-### Currently building
-
-- **Chat-with-your-data agent**: an agent with SQL tools and guardrails over public restaurant data, scored against a hand-labelled question set.
-- **HyDE RAG v2**: benchmarking naive RAG vs. HyDE vs. hybrid search (BM25 + vectors + reranker) on retrieval recall and answer faithfulness.
-- Learning: voice AI agents and multi-agent orchestration.
-
-### What I've built at work
-
-At **NuTaste Group** and **Internshala**:
-
-- **Shipment-delay prediction**: XGBoost model (0.82 ROC-AUC) with SHAP-based root-cause explanations for late deliveries.
-- **Procurement anomaly detection**: Isolation Forest on vendor-level price variance to flag abnormal transactions and potential cost leakage.
-- **Natural-language market intelligence** *(in progress)*: a LangChain query layer over 50K+ restaurant outlet records.
-- **Support-request NLP**: BERT + NER classification that improved routing accuracy by 30% and cut manual triage by 40%.
-- **Hybrid recommender**: collaborative filtering + LightGBM learning-to-rank that improved job-match accuracy by 28%.
-
-<sub>Work code is proprietary. Happy to walk through the approach.</sub>
-
 ### DataSEA podcast
 
 I talk to data and AI practitioners about what actually works in production.
@@ -33,15 +15,6 @@ I talk to data and AI practitioners about what actually works in production.
 - [Why 90% of Data Science and GenAI POCs fail](https://www.youtube.com/watch?v=O-_TKRfmGCg)
 - [Security of AI Agents Explained](https://www.youtube.com/watch?v=EdblGLuTZcU)
 - [Lifecycle of Enterprise-Grade AI Projects](https://www.youtube.com/watch?v=GyHTyNNeRBw)
-
-### Stack
-
-**LLMs:** LangChain · RAG · FAISS · embeddings · Hugging Face · prompt engineering<br>
-**ML:** PyTorch · scikit-learn · XGBoost · LightGBM · BERT / NER · SHAP · A/B testing & causal inference<br>
-**Data:** Python · SQL · PySpark · Azure Data Factory · MS Fabric · BigQuery · PostgreSQL · DuckDB<br>
-**Apps:** Streamlit · Power BI
-
----
 
 📫 **Open to AI consulting and build work with early-stage startups.** Reach me at [sudhanshut2017.st@gmail.com](mailto:sudhanshut2017.st@gmail.com).
 
